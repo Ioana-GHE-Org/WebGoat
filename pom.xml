@@ -36,13 +36,7 @@
     </licenses>
 
     <developers>
-        <developer>
-            <id>mayhew64</id>
-            <name>Bruce Mayhew</name>
-            <email>webgoat@owasp.org</email>
-            <organization>OWASP</organization>
-            <organizationUrl>https://github.com/WebGoat/WebGoat</organizationUrl>
-        </developer>
+   
         <developer>
             <id>nbaars</id>
             <name>Nanne Baars</name>
